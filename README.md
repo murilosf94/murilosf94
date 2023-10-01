@@ -8,6 +8,8 @@ Meu objetivo é continuar minha jornada acadêmica e profissional em Engenharia 
 
 Estou comprometido com o aprendizado contínuo e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, estou interessado em fazer conexões profissionais na área de Engenharia de Computação, então, sinta-se à vontade para me adicionar e iniciar uma conversa.
 
+Meu LinkedIn: www.linkedin.com/in/murilosf
+
 
 ENG:
 Hello, my name is Murilo de Souza Freitas.
@@ -18,3 +20,5 @@ I have experience so far in programming in languages such as C, Assembly x86, HT
 My objective is to continue my academic and professional journey in Computer Engineering, seeking internship opportunities or projects that expand my knowledge and allow me to contribute to innovative technological solutions.
 
 I am committed to continuous learning and am always looking to improve my technical skills. Additionally, I'm interested in making professional connections in the field of Computer Engineering, so feel free to add me to your network and start a conversation.
+
+My LinkedIn: www.linkedin.com/in/murilosf
