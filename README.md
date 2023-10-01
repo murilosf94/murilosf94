@@ -6,7 +6,7 @@ Possuo experiência até o momento em programação em linguagens como C, Assemb
 
 Meu objetivo profissional é continuar minha jornada acadêmica e profissional em Engenharia de Computação, buscando oportunidades de estágio ou projetos que ampliem meu conhecimento e me permitam contribuir para soluções tecnológicas inovadoras.
 
-Estou comprometido com o aprendizado contínuo e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, estou interessado em fazer conexões profissionais na área de Engenharia de Computação, então, sinta-se à vontade para me adicionar à sua rede e iniciar uma conversa.
+Estou comprometido com o aprendizado contínuo e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, estou interessado em fazer conexões profissionais na área de Engenharia de Computação, então, sinta-se à vontade para me adicionar e iniciar uma conversa.
 
 
 ENG:
