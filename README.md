@@ -1,24 +1,38 @@
 PT-BR:
-Olá, meu nome é Murilo de Souza Freitas.
-Sou estudante do quarto semestre de Engenharia de Computação na Pontifícia Universidade Católica de Campinas. Meu caminho acadêmico é alimentado por minha paixão pela tecnologia e meu desejo constante de aprimorar minhas habilidades técnicas. Falo bem português e inglês.
 
-Possuo experiência até o momento em programação em linguagens como C, Assembly x86, HTML, CSS, e Laravel e estou constantemente buscando oportunidades para aplicar meu conhecimento e sempre abrangendo minhas habilidades em linguagens diferentes assim que possível.
+Olá! Meu nome é Murilo de Souza Freitas e sou estudante do quarto semestre de Engenharia de Computação na Pontifícia Universidade Católica de Campinas. Minha trajetória acadêmica é guiada por uma paixão genuína pela tecnologia e um desejo constante de evoluir tecnicamente.
 
-Meu objetivo é continuar minha jornada acadêmica e profissional em Engenharia de Computação, buscando oportunidades de estágio ou projetos que ampliem meu conhecimento e me permitam contribuir para soluções tecnológicas inovadoras.
+Tenho experiência em linguagens como C, C++, Assembly x86, HTML, CSS, Laravel e Node.js. Estou sempre em busca de desafios que me permitam aplicar esse conhecimento na prática e ampliar meu repertório técnico, explorando novas linguagens e tecnologias sempre que possível.
 
-Estou comprometido com o aprendizado contínuo e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, estou interessado em fazer conexões profissionais na área de Engenharia de Computação, então, sinta-se à vontade para me adicionar e iniciar uma conversa.
+Meu objetivo é seguir desenvolvendo minha carreira acadêmica e profissional na área de Engenharia de Computação, buscando oportunidades de estágio e projetos que me proporcionem aprendizado e impacto real através de soluções tecnológicas inovadoras.
 
-Meu LinkedIn: www.linkedin.com/in/murilosf
-
+Sou fluente em português e inglês, comprometido com o aprendizado contínuo, e aberto a conexões profissionais na área. Sinta-se à vontade para me adicionar no LinkedIn e trocar uma ideia!
 
 ENG:
-Hello, my name is Murilo de Souza Freitas.
-I am a fourth semester Computer Engineering student at the Pontifical Catholic University of Campinas. My academic path is fueled by my passion for technology and my constant desire to improve my technical skills. I speak Portuguese and English.
 
-I have experience so far of programming in languages such as C, Assembly x86, HTML, CSS, and Laravel, and I am constantly looking for opportunities to apply my knowledge and always covering my skills in different languages as soon as possible.
+Hi! My name is Murilo de Souza Freitas, and I’m a fourth-semester Computer Engineering student at the Pontifical Catholic University of Campinas. My academic journey is driven by a genuine passion for technology and a constant desire to grow technically.
 
-My objective is to continue my academic and professional journey in Computer Engineering, seeking internship opportunities or projects that expand my knowledge and allow me to contribute to innovative technological solutions.
+I have experience in programming languages such as C, C++, Assembly x86, HTML, CSS, Laravel, and Node.js. I’m always seeking opportunities to put my knowledge into practice and expand my technical skillset by exploring new tools and technologies.
 
-I am committed to continuous learning and am always looking to improve my technical skills. Additionally, I'm interested in making professional connections in the field of Computer Engineering, so feel free to add me to your network and start a conversation.
+My goal is to keep advancing in my academic and professional path in Computer Engineering, looking for internships and projects that enhance my learning and allow me to contribute to innovative tech solutions.
 
-My LinkedIn: www.linkedin.com/in/murilosf
+I’m fluent in Portuguese and English, committed to lifelong learning, and open to professional networking. Feel free to connect with me on LinkedIn!
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilosf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosf&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
