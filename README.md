@@ -8,6 +8,8 @@ Meu objetivo é seguir desenvolvendo minha carreira acadêmica e profissional na
 
 Sou fluente em português e inglês, comprometido com o aprendizado contínuo, e aberto a conexões profissionais na área. Sinta-se à vontade para me adicionar no LinkedIn e trocar uma ideia!
 
+LinkedIn: https://www.linkedin.com/in/murilosf/
+
 ENG:
 
 Hi! My name is Murilo de Souza Freitas, and I’m a fourth-semester Computer Engineering student at the Pontifical Catholic University of Campinas. My academic journey is driven by a genuine passion for technology and a constant desire to grow technically.
@@ -17,6 +19,8 @@ I have experience in programming languages such as C, C++, Assembly x86, HTML, C
 My goal is to keep advancing in my academic and professional path in Computer Engineering, looking for internships and projects that enhance my learning and allow me to contribute to innovative tech solutions.
 
 I’m fluent in Portuguese and English, committed to lifelong learning, and open to professional networking. Feel free to connect with me on LinkedIn!
+
+LinkedIn: https://www.linkedin.com/in/murilosf/
 
 ## 🚀 Tecnologias e Ferramentas
 
