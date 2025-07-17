@@ -1,4 +1,4 @@
-PT-BR:
+## PT-BR
 
 Olá! Meu nome é Murilo de Souza Freitas e sou estudante do sexto semestre de Engenharia de Computação na Pontifícia Universidade Católica de Campinas. Minha trajetória acadêmica é guiada por uma paixão genuína pela tecnologia e um desejo constante de evoluir tecnicamente.
 
@@ -12,7 +12,7 @@ O português é minha língua principal e tenho um inglês avançado, com excele
 
 **LinkedIn:** https://www.linkedin.com/in/murilosf/
 
-ENG:
+## ENG:
 
 Hi! My name is Murilo de Souza Freitas, and I’m a sixth-semester Computer Engineering student at the Pontifical Catholic University of Campinas. My academic journey is driven by a genuine passion for technology and a constant desire to grow technically.
 
