@@ -10,7 +10,7 @@ Tenho um grande entusiasmo por trabalhar em equipe, colaborar com outros profiss
 
 O português é minha língua principal e tenho um inglês avançado, com excelente compreensão e comunicação. Sou comprometido com o aprendizado contínuo, e aberto a conexões profissionais na área. Sinta-se à vontade para me adicionar no LinkedIn e trocar uma ideia!
 
-LinkedIn: https://www.linkedin.com/in/murilosf/
+**LinkedIn:** https://www.linkedin.com/in/murilosf/
 
 ENG:
 
@@ -24,7 +24,7 @@ I am enthusiastic about working in a team, collaborating with other professional
 
 Portuguese is my native language, and I have a strong command of English. I'm committed to lifelong learning, and open to professional networking. Feel free to connect with me on LinkedIn!
 
-LinkedIn: https://www.linkedin.com/in/murilosf/
+**LinkedIn:** https://www.linkedin.com/in/murilosf/
 
 ## 🚀 Tecnologias e Ferramentas
 
